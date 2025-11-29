@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}</ProjectGuid>
+    <ProjectGuid>{EA394DBC-04F8-45C0-BCBE-4C21FED03DA0}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>trabajoEnEquipo</RootNamespace>
-    <AssemblyName>trabajoEnEquipo</AssemblyName>
+    <RootNamespace>TrabajoB</RootNamespace>
+    <AssemblyName>TrabajoB</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -53,6 +53,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="trabajoB.cs" />
+    <Compile Include="trabajoB.Designer.cs">
+      <DependentUpon>trabajoB.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

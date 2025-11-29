@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.4
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabajoEnEquipo", "TrabajoEnEquipo\TrabajoEnEquipo.csproj", "{365B80E9-C5BF-416D-8A41-FF0ECDB7C0F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajoEnEquipo", "trabajoEnEquipo\trabajoEnEquipo.csproj", "{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,9 +10,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{365B80E9-C5BF-416D-8A41-FF0ECDB7C0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{365B80E9-C5BF-416D-8A41-FF0ECDB7C0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{365B80E9-C5BF-416D-8A41-FF0ECDB7C0F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{365B80E9-C5BF-416D-8A41-FF0ECDB7C0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A54C582-83BA-4E7C-9216-AF44F9DCD18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
