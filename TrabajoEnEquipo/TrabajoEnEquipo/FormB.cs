@@ -28,5 +28,10 @@ namespace TrabajoEnEquipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void FormBLoad(object sender, EventArgs e)
+		{
+			
+		}
 	}
 }
